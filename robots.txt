@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://delphidesigner.github.io/puddlepaint/sitemap.xml

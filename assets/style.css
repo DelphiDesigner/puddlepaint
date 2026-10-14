@@ -50,3 +50,10 @@ article h1 { font-size: 36px; }
 .updated { color: var(--ink-soft); font-size: 15px; }
 footer { border-top: 1px solid var(--line); margin-top: 48px; padding: 24px 0 40px; color: var(--ink-soft); font-size: 15px; }
 footer a { color: var(--ink-soft); margin-right: 16px; }
+
+.shots { display: grid; gap: 22px; margin: 16px 0 8px; }
+.shots figure { margin: 0; }
+.shots img { width: 100%; height: auto; border-radius: 18px; border: 1px solid var(--line); box-shadow: 0 8px 24px rgba(59,58,54,0.10); background: var(--card); }
+.shots figcaption { text-align: center; color: var(--ink-soft); margin-top: 8px; }
+.notfound { text-align: center; padding: 60px 0 20px; }
+.notfound img { width: 120px; height: 120px; border-radius: 28px; }
